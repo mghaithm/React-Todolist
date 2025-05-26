@@ -1,12 +1,20 @@
-# React-Todolist
+# React Todolist
 
+A simple and elegant React-based Todo List application. Perfect for practicing React fundamentals and task management.
 
-## Preview: 
+---
 
-![grab-landing-page](preview.gif)
+## 📸 Preview
 
-## To run the project:
+![React Todolist Preview](preview.gif)
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project locally:
+
+### 📥 Clone the Repository
+```bash
+git clone https://github.com/mghaithm/React-Todolist.git
+cd React-Todolist

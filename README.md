@@ -14,7 +14,9 @@ A simple and elegant React-based Todo List application. Perfect for practicing R
 
 Follow these steps to set up and run the project locally:
 
-### 📥 Clone the Repository
+### 📥 Clone the Repository & run the app
 ```bash
 git clone https://github.com/mghaithm/React-Todolist.git
 cd React-Todolist
+npm install
+npm start
